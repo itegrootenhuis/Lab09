@@ -14,7 +14,7 @@ namespace Lab09
             Console.WriteLine("Welcome to the Circle area & circumference calculator. ");
             GetUserInput();
         }
-
+        
         private static void GetUserInput()
         {
             Console.Write("Enter a radius: ");
